@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mariana
+- 👀 I am interested in furthering my knowledge in web development.
+- 🌱 I’m currently learning JavaScript, React, NodeJS, SQL.
+- 📫 How to reach me: <a href="https://mariana.codes/">website</a>
