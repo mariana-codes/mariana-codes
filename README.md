@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/mariana-codes">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-codes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-codes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
