@@ -21,7 +21,7 @@ Antes de me dedicar ao desenvolvimento web, trabalhei como designer de multiméd
 ![Styled Components](https://img.shields.io/badge/-styledcomponents-333333?style=flat&logo=styled-components&logoColor=DB7093)
 ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=MUI&logoColor=007FFF)
 ![Shadcn UI](https://img.shields.io/badge/-ShadcnUI-333333?style=flat&logo=shadcnui&logoColor=white)
-![Chartjs](https://img.shields.io/badge/-Chartjs-FF6384?style=flat&logo=chartdotjs&logoColor=FF6384)
+![Chartjs](https://img.shields.io/badge/-Chartjs-333333?style=flat&logo=chartdotjs&logoColor=FF6384)
 ![reacthookform](https://img.shields.io/badge/-React%20Hook%20Form-333333?style=flat&logo=reacthookform&logoColor=EC5990)
 ![Zod](https://img.shields.io/badge/-Zod-333333?style=flat&logo=zod&logoColor=3E67B1)
 ![React Query](https://img.shields.io/badge/-React%20Query-333333?style=flat&logo=reactquery&logoColor=FF4154)
