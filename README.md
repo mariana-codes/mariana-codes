@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/marianacodes/"><img src="https://img.shields.io/badge/LinkedIn-Mariana%20Gomes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:felipemota.rocha@gmail.com"><img src="https://img.shields.io/badge/-mariana@engineer.com-004788?style=flat-square&logo=maildotcom&logoColor=white"/></a>
+<a href="mailto:mariana@engineer.com"><img src="https://img.shields.io/badge/-mariana@engineer.com-004788?style=flat-square&logo=maildotcom&logoColor=white"/></a>
 
 </p>
 
