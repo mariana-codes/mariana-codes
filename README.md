@@ -1,11 +1,10 @@
-<h2>👋 &nbsp;Olá, o meu nome é Mariana e desenvolvo para a Web com React, JavaScript, TypeScript, HTML, CSS, entre outras tecnologias.</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/marianacodes/"><img src="https://img.shields.io/badge/LinkedIn-Mariana%20Gomes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:felipemota.rocha@gmail.com"><img src="https://img.shields.io/badge/-mariana@engineer.com-004788?style=flat-square&logo=maildotcom&logoColor=white"/></a>
 
 </p>
 
-Tenho um forte sentido de colaboração, trabalhando em equipa com designers, QAs, backend developers e outros stakeholders para criar soluções eficientes e bem estruturadas. 
+👋 &nbsp;Olá, o meu nome é Mariana e desenvolvo para a Web com React, JavaScript, TypeScript, HTML, CSS, entre outras tecnologias. Tenho um forte sentido de colaboração, trabalhando em equipa com designers, QAs, backend developers e outros stakeholders para criar soluções eficientes e bem estruturadas. 
 
 Antes de me dedicar ao desenvolvimento web, trabalhei como designer de multimédia, experiência que me proporcionou uma visão mais apurada sobre usabilidade, design de interfaces e atenção ao detalhe. Esta bagagem permite-me transpor conceitos visuais para código com precisão e fidelidade, garantindo que cada elemento respeita o design original e contribui para uma experiência de utilização fluida e intuitiva.
 
